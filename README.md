@@ -29,12 +29,41 @@ Created by **Deepanshu Singh**
 
 ---
 
-## 📸 Screenshots
+# 📸 Application Preview
 
-Add screenshots here.
+The Duplicate Image Finder provides a simple and modern interface for detecting and managing duplicate images efficiently.
 
-```text
-screenshots/
-├── home.png
-├── scan.png
-└── result.png
+<p align="center">
+ <img width="1774" height="887" alt="Duplicate_Image_ScreenShot" src="https://github.com/user-attachments/assets/6aba4f63-7599-4de1-aa98-93cc4b025d1b" />
+</p>
+
+---
+
+## Features Shown
+
+### 🏠 Home Page
+- Clean and intuitive user interface
+- Browse and select folders
+- Scan directories for duplicate images
+- Preview detected images before deletion
+
+### 📂 Browse Folder
+- Native folder selection dialog
+- Easy navigation through system directories
+- Supports scanning any user-selected folder
+
+### 🔍 Duplicate Image Preview
+- Displays detected duplicate images
+- Shows full file path information
+- Allows users to review results before deletion
+- Safe duplicate management workflow
+
+---
+
+### Workflow
+
+1. Select a folder containing images.
+2. Click **Scan Duplicates**.
+3. Review detected duplicate images.
+4. Delete unwanted duplicates safely.
+
